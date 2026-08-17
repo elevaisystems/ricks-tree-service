@@ -14,7 +14,7 @@ const reviews = [
   },
   {
     name: "Deniese M.",
-    text: "I just had some tree removal complete by Rick’s.  Josh and his crew went over and above my expectations regarding their work! He even removed trees that weren’t in the original quote for me!! There are trees gone and you literally can’t even tell they were there! He even blew out my garage when he was done!!!! 100/10 recommend them!",
+    text: "I just had some tree removal complete by Rick’s.  The crew went over and above my expectations regarding their work! He even removed trees that weren’t in the original quote for me!! There are trees gone and you literally can’t even tell they were there! He even blew out my garage when he was done!!!! 100/10 recommend them!",
   },
   {
     name: "David F.",
@@ -22,7 +22,7 @@ const reviews = [
   },
   {
     name: "Joy T.",
-    text: "Thanks to Josh and his crew for taking down several trees near my house. 3 out of 4 were just a storm away from falling on my home. They took their time doing a good job, very professional,  and didn't leave me with a big mess!",
+    text: "Thanks to his crew for taking down several trees near my house. 3 out of 4 were just a storm away from falling on my home. They took their time doing a good job, very professional,  and didn't leave me with a big mess!",
   },
 ];
 
