@@ -6,27 +6,51 @@ import { X, ZoomIn } from "lucide-react";
 
 const projects = [
   {
-    src: "/images/gallery/temp-gallery.png",
+    src: "/images/gallery/img1.jpeg",
     alt: "Rick's Tree Service project",
   },
   {
-    src: "/images/gallery/temp-gallery.png",
+    src: "/images/gallery/img2.jpeg",
     alt: "Rick's Tree Service project",
   },
   {
-    src: "/images/gallery/temp-gallery.png",
+    src: "/images/gallery/img3.jpeg",
     alt: "Rick's Tree Service project",
   },
   {
-    src: "/images/gallery/temp-gallery.png",
+    src: "/images/gallery/img4.jpeg",
     alt: "Rick's Tree Service project",
   },
   {
-    src: "/images/gallery/temp-gallery.png",
+    src: "/images/gallery/img5.jpeg",
     alt: "Rick's Tree Service project",
   },
   {
-    src: "/images/gallery/temp-gallery.png",
+    src: "/images/gallery/img6.jpeg",
+    alt: "Rick's Tree Service project",
+  },
+  {
+    src: "/images/gallery/img7.jpeg",
+    alt: "Rick's Tree Service project",
+  },
+  {
+    src: "/images/gallery/img8.webp",
+    alt: "Rick's Tree Service project",
+  },
+  {
+    src: "/images/gallery/img9.webp",
+    alt: "Rick's Tree Service project",
+  },
+  {
+    src: "/images/gallery/img10.webp",
+    alt: "Rick's Tree Service project",
+  },
+  {
+    src: "/images/gallery/img11.webp",
+    alt: "Rick's Tree Service project",
+  },
+  {
+    src: "/images/gallery/img12.webp",
     alt: "Rick's Tree Service project",
   },
 ];
